@@ -6,9 +6,9 @@ The purpose of this analysis is to determine if there is any bias toward favorab
 ## Results
 - Total Reviews:
     - Vine Members \- 21\
-    ![alt text]()
+    ![alt text](https://github.com/ABonuan/Amazon_Vine_Analysis/blob/main/resources/Vine_Member_reviews.png?raw=True)
     - Non-members \- 6690\
-    ![alt text]()
+    ![alt text](https://github.com/ABonuan/Amazon_Vine_Analysis/blob/main/resources/Vine_NonMember_reviews.png?raw=True)
 - 5-Star Reviews:
     - Vine Members \- 10
     - Non-members \- 3448
